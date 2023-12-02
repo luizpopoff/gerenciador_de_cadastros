@@ -1,0 +1,37 @@
+{
+  "1": {
+    "Status": false,
+    "CPF": "63371038408",
+    "Nome": "Henrique",
+    "Telefone": "(15) 9-9999-1234",
+    "Endere\u00e7o": "Rua do Python"
+  },
+  "2": {
+    "Status": true,
+    "CPF": "67650055442",
+    "Nome": "Sebasti\u00e3o",
+    "Telefone": "(91) 9-9111-7894",
+    "Endere\u00e7o": "Modulo II"
+  },
+  "3": {
+    "Status": true,
+    "CPF": "73664564464",
+    "Nome": "Jo\u00e3o",
+    "Telefone": "(84) 9-9991-4561",
+    "Endere\u00e7o": "Av. Faria Lima"
+  },
+  "4": {
+    "Status": true,
+    "CPF": "72124976222",
+    "Nome": "Maria",
+    "Telefone": "(83) 9-8498-3333",
+    "Endere\u00e7o": "Rua sem Nome"
+  },
+  "5": {
+    "Status": false,
+    "CPF": "61443783676",
+    "Nome": "Juliana",
+    "Telefone": "(21) 9-9498-2240",
+    "Endere\u00e7o": "Rua das Flores"
+  }
+}

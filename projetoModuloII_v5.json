@@ -1,0 +1,93 @@
+{
+  "1": {
+    "Status": true,
+    "CPF": "41950377199",
+    "Nome": "Henrique",
+    "Telefone": "78774123",
+    "Endere\u00e7o": "Rua do Python"
+  },
+  "2": {
+    "Status": true,
+    "CPF": "31507954514",
+    "Nome": "Sebasti\u00e3o",
+    "Telefone": "23546312",
+    "Endere\u00e7o": "Modulo II"
+  },
+  "3": {
+    "Status": true,
+    "CPF": "26623391444",
+    "Nome": "Jo\u00e3o",
+    "Telefone": "45786327",
+    "Endere\u00e7o": "Av. Faria Lima"
+  },
+  "4": {
+    "Status": false,
+    "CPF": "29444009246",
+    "Nome": "Maria",
+    "Telefone": "74125823",
+    "Endere\u00e7o": "Av. Paulista"
+  },
+  "5": {
+    "Status": false,
+    "CPF": "79751645263",
+    "Nome": "Juliana",
+    "Telefone": "41230578",
+    "Endere\u00e7o": "Rua das Flores"
+  },
+  "6": {
+    "Status": true,
+    "CPF": "75307733801",
+    "Nome": "Bandit",
+    "Telefone": "11134659875",
+    "Endere\u00e7o": "Rua doasd Python"
+  },
+  "7": {
+    "Status": true,
+    "CPF": "45361061468",
+    "Nome": "Blue",
+    "Telefone": "123456789987456",
+    "Endere\u00e7o": "Modulo IIasdasd"
+  },
+  "8": {
+    "Status": true,
+    "CPF": "46165564402",
+    "Nome": "Bingo",
+    "Telefone": "123456789987456",
+    "Endere\u00e7o": "Modulo IIasdasd"
+  },
+  "9": {
+    "Status": true,
+    "CPF": "75307733801",
+    "Nome": "Bandit",
+    "Telefone": "11134659875",
+    "Endere\u00e7o": "Rua doasd Python"
+  },
+  "10": {
+    "Status": true,
+    "CPF": "45361061468",
+    "Nome": "Blue",
+    "Telefone": "123456789987456",
+    "Endere\u00e7o": "Modulo IIasdasd"
+  },
+  "11": {
+    "Status": true,
+    "CPF": "46165564402",
+    "Nome": "Bingo",
+    "Telefone": "123456789987456",
+    "Endere\u00e7o": "Modulo IIasdasd"
+  },
+  "12": {
+    "Status": true,
+    "CPF": "69687962100",
+    "Nome": "Rita de Castro",
+    "Telefone": "11134659875",
+    "Endere\u00e7o": "Rua doasd Python"
+  },
+  "13": {
+    "Status": true,
+    "CPF": "11709883774",
+    "Nome": "Antonio de Algo",
+    "Telefone": "123456789987456",
+    "Endere\u00e7o": "Rua dos Gritos"
+  }
+}

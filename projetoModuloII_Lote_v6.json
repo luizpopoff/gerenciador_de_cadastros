@@ -1,0 +1,37 @@
+{
+  "1": {
+    "Status": true,
+    "CPF": "73853402615",
+    "Nome": "Usuario V",
+    "Telefone": "11847850740",
+    "Endere\u00e7o": "Rua doasd Python"
+  },
+  "2": {
+    "Status": true,
+    "CPF": "12968908995",
+    "Nome": "Usuario VI",
+    "Telefone": "123456789987456",
+    "Endere\u00e7o": "Rua dos Gritos"
+  },
+  "3": {
+    "Status": true,
+    "CPF": "79751645263",
+    "Nome": "Usuario VII, CPF repetido.",
+    "Telefone": "123456789987456",
+    "Endere\u00e7o": "Aquela Rua X"
+  },
+  "4": {
+    "Status": true,
+    "CPF": "64335787480654654654",
+    "Nome": "Cpf inválido",
+    "Telefone": "123456789987456asdas",
+    "Endere\u00e7o": "Aquela Rua XX"
+  },
+  "5": {
+    "Status": true,
+    "CPF": "92369063700",
+    "Nome": "Henrique",
+    "Telefone": "123456789987456asdas",
+    "Endere\u00e7o": "Aquela Rua XX"
+  }
+}
